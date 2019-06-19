@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: whatami
 permalink: /about/
 ---
 
-Some information about you!
+### what am i?
+I'm an Infosec professional, focusing on incident response, and alert development. #blueteam
 
-### More Information
+My day to day tools include Splunk, Sysmon, Powershell, and Python.
 
-A place to include any other types of information that you'd like to include about yourself.
+### why blog?
+This blog is designed mostly for my own reference, but perhaps someone else will find the documented solutions useful. 
 
-### Contact me
+### why github pages?
+* Medium gets mixed reviews and content exports look challenging
+* I found [jekyllnow](http://jekyllnow.com), which gets rid of the Ruby requirements to build a Github pages site (with a tradeoff of some decreased flexibility). I really want to spend my time on content, not on setting up a blog.
 
-[email@domain.com](mailto:email@domain.com)
+### contact
+* [Keybase](https://keybase.io/keepwatch)
+* [Twitter](https://twitter.com/iwillkeepwatch)
